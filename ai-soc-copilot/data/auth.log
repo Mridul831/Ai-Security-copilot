@@ -1,0 +1,240 @@
+Oct 07 20:32:46 Mridul sudo: root : TTY=pts/0 ; PWD=/home/root ; USER=root ; COMMAND=/usr/bin/apt-get update
+Oct 07 20:33:22 Mridul sudo: mridul : TTY=pts/0 ; PWD=/home/mridul ; USER=root ; COMMAND=/usr/bin/apt-get update
+Oct 07 20:34:36 Mridul sshd[1488]: Failed password for root from 185.220.101.5 port 36140 ssh2
+Oct 07 20:35:08 Mridul sshd[4257]: Failed password for mridul from 185.220.101.5 port 57493 ssh2
+Oct 07 20:35:41 Mridul sshd[1106]: Accepted password for www-data from 185.220.101.5 port 40463 ssh2
+Oct 07 20:36:40 Mridul sshd[6514]: Accepted password for ubuntu from 203.0.113.77 port 36698 ssh2
+Oct 07 20:36:56 Mridul sshd[6635]: Accepted password for www-data from 192.168.1.42 port 47335 ssh2
+Oct 07 20:37:06 Mridul sshd[7201]: Failed password for deploy from 198.51.100.23 port 35164 ssh2
+Oct 07 20:38:21 Mridul sshd[6925]: Failed password for ubuntu from 45.142.212.61 port 42601 ssh2
+Oct 07 20:38:34 Mridul sshd[5741]: Accepted password for root from 45.142.212.61 port 35229 ssh2
+Oct 07 20:39:08 Mridul sshd[6977]: Accepted password for root from 198.51.100.23 port 40659 ssh2
+Oct 07 20:40:00 Mridul sshd[2169]: Failed password for ubuntu from 10.0.0.15 port 41215 ssh2
+Oct 07 20:41:13 Mridul sshd[7216]: Accepted password for deploy from 10.0.0.15 port 47691 ssh2
+Oct 07 20:42:39 Mridul sshd[6313]: Accepted password for deploy from 185.220.101.5 port 33665 ssh2
+Oct 07 20:43:13 Mridul sshd[2084]: Failed password for root from 203.0.113.77 port 43826 ssh2
+Oct 07 20:44:30 Mridul sshd[9179]: Accepted password for deploy from 203.0.113.77 port 55928 ssh2
+Oct 07 20:45:57 Mridul sshd[5040]: Accepted password for www-data from 10.0.0.15 port 47219 ssh2
+Oct 07 20:47:16 Mridul sshd[4593]: Accepted password for www-data from 185.220.101.5 port 39065 ssh2
+Oct 07 20:48:26 Mridul sudo: www-data : TTY=pts/0 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/apt-get update
+Oct 07 20:48:45 Mridul sshd[7916]: Accepted password for mridul from 45.142.212.61 port 34163 ssh2
+Oct 07 20:49:39 Mridul sshd[9669]: Invalid user www-data from 185.220.101.5 port 46476
+Oct 07 20:50:54 Mridul sudo: root : TTY=pts/0 ; PWD=/home/root ; USER=root ; COMMAND=/usr/bin/apt-get update
+Oct 07 20:52:07 Mridul sshd[5808]: Accepted password for ubuntu from 45.142.212.61 port 58492 ssh2
+Oct 07 20:52:32 Mridul sshd[5315]: Invalid user www-data from 192.168.1.42 port 62806
+Oct 07 20:52:59 Mridul systemd-logind[652]: New session 41 of user postgres.
+Oct 07 20:54:08 Mridul sshd[3646]: Accepted password for postgres from 10.0.0.15 port 64757 ssh2
+Oct 07 20:54:13 Mridul sshd[2832]: Failed password for postgres from 203.0.113.77 port 53788 ssh2
+Oct 07 20:54:57 Mridul sshd[2290]: Accepted password for mridul from 192.168.1.42 port 35613 ssh2
+Oct 07 20:56:04 Mridul sudo: root : TTY=pts/0 ; PWD=/home/root ; USER=root ; COMMAND=/usr/bin/apt-get update
+Oct 07 20:56:25 Mridul systemd-logind[584]: New session 17 of user deploy.
+Oct 07 20:57:37 Mridul sshd[9835]: Invalid user postgres from 198.51.100.23 port 43182
+Oct 07 20:58:21 Mridul sshd[8177]: Failed password for www-data from 45.142.212.61 port 63919 ssh2
+Oct 07 20:59:23 Mridul sshd[6539]: Accepted password for root from 10.0.0.15 port 31378 ssh2
+Oct 07 21:00:43 Mridul sshd[1117]: Failed password for postgres from 10.0.0.15 port 34652 ssh2
+Oct 07 21:02:08 Mridul sshd[1514]: Accepted password for root from 10.0.0.15 port 51654 ssh2
+Oct 07 21:02:22 Mridul sshd[8953]: Accepted password for postgres from 10.0.0.15 port 44040 ssh2
+Oct 07 21:03:36 Mridul systemd-logind[792]: New session 37 of user mridul.
+Oct 07 21:04:41 Mridul sudo: mridul : TTY=pts/0 ; PWD=/home/mridul ; USER=root ; COMMAND=/usr/bin/apt-get update
+Oct 07 21:05:10 Mridul sshd[6804]: Failed password for root from 192.168.1.42 port 57759 ssh2
+Oct 07 21:06:07 Mridul sshd[2612]: Accepted password for www-data from 45.142.212.61 port 33972 ssh2
+Oct 07 21:07:03 Mridul sudo: deploy : TTY=pts/0 ; PWD=/home/deploy ; USER=root ; COMMAND=/usr/bin/apt-get update
+Oct 07 21:07:21 Mridul sshd[8350]: Accepted password for mridul from 10.0.0.15 port 39186 ssh2
+Oct 07 21:08:20 Mridul sshd[2235]: Failed password for mridul from 203.0.113.77 port 59041 ssh2
+Oct 07 21:09:35 Mridul sshd[9856]: Failed password for root from 192.168.1.42 port 30967 ssh2
+Oct 07 21:09:51 Mridul sshd[8886]: Failed password for mridul from 10.0.0.15 port 44008 ssh2
+Oct 07 21:10:47 Mridul sshd[7396]: Accepted password for root from 10.0.0.15 port 47380 ssh2
+Oct 07 21:11:50 Mridul sshd[8973]: Failed password for ubuntu from 198.51.100.23 port 40144 ssh2
+Oct 07 21:12:19 Mridul sshd[9883]: Invalid user ubuntu from 10.0.0.15 port 33994
+Oct 07 21:13:04 Mridul sshd[9238]: Failed password for root from 192.168.1.42 port 64807 ssh2
+Oct 07 21:13:29 Mridul sshd[4044]: Accepted password for root from 185.220.101.5 port 34490 ssh2
+Oct 07 21:14:50 Mridul systemd-logind[706]: New session 8 of user root.
+Oct 07 21:16:07 Mridul sshd[2343]: Failed password for mridul from 185.220.101.5 port 57474 ssh2
+Oct 07 21:17:36 Mridul sshd[5272]: Failed password for postgres from 185.220.101.5 port 43386 ssh2
+Oct 07 21:19:06 Mridul sshd[7484]: Accepted password for deploy from 203.0.113.77 port 38577 ssh2
+Oct 07 21:20:36 Mridul sshd[2188]: Failed password for deploy from 203.0.113.77 port 30610 ssh2
+Oct 07 21:21:39 Mridul sshd[2200]: Invalid user postgres from 185.220.101.5 port 43969
+Oct 07 21:22:48 Mridul systemd-logind[951]: New session 5 of user ubuntu.
+Oct 07 21:23:24 Mridul sshd[9900]: Accepted password for ubuntu from 203.0.113.77 port 49825 ssh2
+Oct 07 21:24:47 Mridul sshd[5905]: Accepted password for deploy from 185.220.101.5 port 36788 ssh2
+Oct 07 21:25:09 Mridul systemd-logind[880]: New session 36 of user ubuntu.
+Oct 07 21:25:33 Mridul sshd[6617]: Failed password for ubuntu from 203.0.113.77 port 43342 ssh2
+Oct 07 21:26:59 Mridul sshd[1832]: Failed password for ubuntu from 185.220.101.5 port 36048 ssh2
+Oct 07 21:28:25 Mridul sshd[6464]: Accepted password for www-data from 203.0.113.77 port 38573 ssh2
+Oct 07 21:29:51 Mridul sudo: ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/apt-get update
+Oct 07 21:31:06 Mridul sshd[2832]: Failed password for deploy from 198.51.100.23 port 34931 ssh2
+Oct 07 21:31:30 Mridul sudo: postgres : TTY=pts/0 ; PWD=/home/postgres ; USER=root ; COMMAND=/usr/bin/apt-get update
+Oct 07 21:32:49 Mridul sshd[1685]: Failed password for postgres from 10.0.0.15 port 50202 ssh2
+Oct 07 21:33:40 Mridul sshd[5088]: Accepted password for root from 203.0.113.77 port 36736 ssh2
+Oct 07 21:34:30 Mridul sshd[3532]: Invalid user postgres from 198.51.100.23 port 45514
+Oct 07 21:34:55 Mridul sshd[6442]: Accepted password for mridul from 198.51.100.23 port 56982 ssh2
+Oct 07 21:36:25 Mridul sshd[2771]: Accepted password for deploy from 10.0.0.15 port 55070 ssh2
+Oct 07 21:36:34 Mridul sshd[8541]: Accepted password for www-data from 10.0.0.15 port 52915 ssh2
+Oct 07 21:37:18 Mridul sshd[4164]: Accepted password for mridul from 10.0.0.15 port 56113 ssh2
+Oct 07 21:38:05 Mridul sshd[5573]: Invalid user ubuntu from 192.168.1.42 port 53012
+Oct 07 21:39:32 Mridul sshd[9785]: Failed password for postgres from 198.51.100.23 port 51702 ssh2
+Oct 07 21:39:40 Mridul sshd[5349]: Accepted password for root from 203.0.113.77 port 32507 ssh2
+Oct 07 21:39:58 Mridul sshd[6139]: Accepted password for postgres from 198.51.100.23 port 58599 ssh2
+Oct 07 21:41:20 Mridul sshd[4114]: Accepted password for postgres from 192.168.1.42 port 46693 ssh2
+Oct 07 21:41:30 Mridul sshd[9821]: Accepted password for deploy from 198.51.100.23 port 42912 ssh2
+Oct 07 21:42:21 Mridul systemd-logind[971]: New session 22 of user www-data.
+Oct 07 21:43:45 Mridul sudo: ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/apt-get update
+Oct 07 21:44:28 Mridul sshd[6344]: Failed password for postgres from 203.0.113.77 port 56371 ssh2
+Oct 07 21:45:10 Mridul sshd[7211]: Accepted password for postgres from 10.0.0.15 port 41405 ssh2
+Oct 07 21:46:33 Mridul sshd[1006]: Failed password for postgres from 203.0.113.77 port 49914 ssh2
+Oct 07 21:47:14 Mridul sudo: mridul : TTY=pts/0 ; PWD=/home/mridul ; USER=root ; COMMAND=/usr/bin/apt-get update
+Oct 07 21:48:36 Mridul sshd[8244]: Failed password for deploy from 203.0.113.77 port 44005 ssh2
+Oct 07 21:49:46 Mridul sshd[2389]: Accepted password for www-data from 45.142.212.61 port 48598 ssh2
+Oct 07 21:50:56 Mridul sshd[2530]: Failed password for deploy from 45.142.212.61 port 45392 ssh2
+Oct 07 21:51:40 Mridul sshd[1757]: Accepted password for mridul from 10.0.0.15 port 46046 ssh2
+Oct 07 21:52:45 Mridul sshd[4185]: Failed password for postgres from 192.168.1.42 port 55164 ssh2
+Oct 07 21:53:53 Mridul sshd[1090]: Accepted password for www-data from 10.0.0.15 port 36985 ssh2
+Oct 07 21:54:52 Mridul sudo: mridul : TTY=pts/0 ; PWD=/home/mridul ; USER=root ; COMMAND=/usr/bin/apt-get update
+Oct 07 21:56:03 Mridul sshd[2988]: Failed password for www-data from 192.168.1.42 port 59914 ssh2
+Oct 07 21:56:25 Mridul sshd[6198]: Failed password for www-data from 45.142.212.61 port 59004 ssh2
+Oct 07 21:57:48 Mridul sshd[9976]: Failed password for deploy from 185.220.101.5 port 59223 ssh2
+Oct 07 21:58:13 Mridul sshd[5050]: Failed password for deploy from 198.51.100.23 port 48173 ssh2
+Oct 07 21:59:24 Mridul sshd[8206]: Accepted password for www-data from 45.142.212.61 port 35077 ssh2
+Oct 07 22:00:05 Mridul sshd[9849]: Accepted password for mridul from 203.0.113.77 port 35280 ssh2
+Oct 07 22:00:27 Mridul sshd[3503]: Accepted password for mridul from 10.0.0.15 port 44021 ssh2
+Oct 07 22:00:40 Mridul sshd[8633]: Accepted password for www-data from 198.51.100.23 port 57248 ssh2
+Oct 07 22:00:52 Mridul sshd[1320]: Accepted password for mridul from 198.51.100.23 port 54928 ssh2
+Oct 07 22:01:58 Mridul sshd[7389]: Accepted password for root from 203.0.113.77 port 57460 ssh2
+Oct 07 22:03:11 Mridul sshd[4613]: Failed password for deploy from 45.142.212.61 port 61996 ssh2
+Oct 07 22:03:44 Mridul sshd[7371]: Failed password for ubuntu from 198.51.100.23 port 52028 ssh2
+Oct 07 22:05:14 Mridul sudo: deploy : TTY=pts/0 ; PWD=/home/deploy ; USER=root ; COMMAND=/usr/bin/apt-get update
+Oct 07 22:06:18 Mridul sshd[7455]: Failed password for mridul from 185.220.101.5 port 31776 ssh2
+Oct 07 22:06:33 Mridul sshd[8564]: Accepted password for deploy from 198.51.100.23 port 41909 ssh2
+Oct 07 22:06:44 Mridul sshd[8449]: Accepted password for ubuntu from 198.51.100.23 port 51420 ssh2
+Oct 07 22:07:32 Mridul sudo: www-data : TTY=pts/0 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/apt-get update
+Oct 07 22:08:30 Mridul sshd[9837]: Failed password for ubuntu from 192.168.1.42 port 33413 ssh2
+Oct 07 22:09:19 Mridul sshd[1659]: Accepted password for mridul from 45.142.212.61 port 32033 ssh2
+Oct 07 22:09:55 Mridul sshd[4908]: Failed password for mridul from 192.168.1.42 port 38272 ssh2
+Oct 07 22:11:00 Mridul sshd[4571]: Failed password for deploy from 192.168.1.42 port 60476 ssh2
+Oct 07 22:11:37 Mridul sshd[2876]: Failed password for ubuntu from 10.0.0.15 port 40732 ssh2
+Oct 07 22:12:21 Mridul sshd[6111]: Accepted password for root from 185.220.101.5 port 54596 ssh2
+Oct 07 22:13:16 Mridul sshd[4978]: Accepted password for deploy from 10.0.0.15 port 36678 ssh2
+Oct 07 22:13:59 Mridul sudo: deploy : TTY=pts/0 ; PWD=/home/deploy ; USER=root ; COMMAND=/usr/bin/apt-get update
+Oct 07 22:15:16 Mridul sshd[7071]: Failed password for root from 203.0.113.77 port 34519 ssh2
+Oct 07 22:16:25 Mridul sshd[7882]: Accepted password for deploy from 203.0.113.77 port 62125 ssh2
+Oct 07 22:16:43 Mridul sshd[8532]: Failed password for www-data from 203.0.113.77 port 40026 ssh2
+Oct 07 22:17:43 Mridul sshd[5425]: Failed password for mridul from 45.142.212.61 port 61686 ssh2
+Oct 07 22:18:47 Mridul sshd[6280]: Failed password for www-data from 45.142.212.61 port 46088 ssh2
+Oct 07 22:19:03 Mridul sshd[8613]: Accepted password for ubuntu from 198.51.100.23 port 54837 ssh2
+Oct 07 22:19:51 Mridul systemd-logind[593]: New session 32 of user root.
+Oct 07 22:20:23 Mridul sshd[5526]: Accepted password for ubuntu from 203.0.113.77 port 30665 ssh2
+Oct 07 22:21:34 Mridul sshd[7658]: Accepted password for mridul from 192.168.1.42 port 62019 ssh2
+Oct 07 22:22:50 Mridul sshd[9041]: Failed password for mridul from 45.142.212.61 port 59371 ssh2
+Oct 07 22:22:57 Mridul sshd[4986]: Accepted password for root from 203.0.113.77 port 50067 ssh2
+Oct 07 22:24:26 Mridul sshd[9698]: Failed password for postgres from 203.0.113.77 port 52528 ssh2
+Oct 07 22:25:25 Mridul sshd[8434]: Accepted password for deploy from 185.220.101.5 port 47754 ssh2
+Oct 07 22:26:09 Mridul sshd[4155]: Accepted password for ubuntu from 10.0.0.15 port 50679 ssh2
+Oct 07 22:26:29 Mridul sshd[4033]: Invalid user deploy from 185.220.101.5 port 42552
+Oct 07 22:27:01 Mridul sshd[9595]: Accepted password for deploy from 198.51.100.23 port 48546 ssh2
+Oct 07 22:27:18 Mridul sshd[3939]: Accepted password for mridul from 203.0.113.77 port 49809 ssh2
+Oct 07 22:27:24 Mridul sshd[1745]: Accepted password for deploy from 185.220.101.5 port 33573 ssh2
+Oct 07 22:28:39 Mridul systemd-logind[826]: New session 49 of user ubuntu.
+Oct 07 22:29:46 Mridul sshd[8690]: Failed password for root from 192.168.1.42 port 61373 ssh2
+Oct 07 22:30:47 Mridul sshd[5136]: Invalid user ubuntu from 10.0.0.15 port 61308
+Oct 07 22:31:06 Mridul sshd[1878]: Failed password for root from 198.51.100.23 port 39943 ssh2
+Oct 07 22:31:30 Mridul sshd[5066]: Accepted password for postgres from 203.0.113.77 port 37762 ssh2
+Oct 07 22:32:46 Mridul sshd[4697]: Failed password for www-data from 185.220.101.5 port 64247 ssh2
+Oct 07 22:33:39 Mridul sshd[8025]: Accepted password for www-data from 198.51.100.23 port 50013 ssh2
+Oct 07 22:34:56 Mridul sshd[2625]: Failed password for postgres from 192.168.1.42 port 43617 ssh2
+Oct 07 22:36:21 Mridul sshd[3573]: Failed password for mridul from 203.0.113.77 port 45719 ssh2
+Oct 07 22:36:48 Mridul sshd[7693]: Accepted password for postgres from 192.168.1.42 port 59524 ssh2
+Oct 07 22:38:09 Mridul sshd[5720]: Accepted password for www-data from 203.0.113.77 port 48528 ssh2
+Oct 07 22:39:12 Mridul sshd[5334]: Accepted password for root from 45.142.212.61 port 42964 ssh2
+Oct 07 22:40:11 Mridul sshd[3441]: Accepted password for root from 185.220.101.5 port 47408 ssh2
+Oct 07 22:40:34 Mridul sshd[6039]: Accepted password for root from 192.168.1.42 port 48914 ssh2
+Oct 07 22:41:35 Mridul sshd[7594]: Failed password for root from 198.51.100.23 port 47841 ssh2
+Oct 07 22:42:44 Mridul sshd[1653]: Failed password for postgres from 198.51.100.23 port 58313 ssh2
+Oct 07 22:43:30 Mridul sshd[4750]: Accepted password for postgres from 203.0.113.77 port 31359 ssh2
+Oct 07 22:44:09 Mridul sudo: postgres : TTY=pts/0 ; PWD=/home/postgres ; USER=root ; COMMAND=/usr/bin/apt-get update
+Oct 07 22:44:36 Mridul sshd[5557]: Failed password for www-data from 185.220.101.5 port 41894 ssh2
+Oct 07 22:45:55 Mridul sudo: www-data : TTY=pts/0 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/apt-get update
+Oct 07 22:46:11 Mridul sshd[6260]: Failed password for www-data from 203.0.113.77 port 36855 ssh2
+Oct 07 22:46:36 Mridul sshd[5722]: Failed password for ubuntu from 198.51.100.23 port 56244 ssh2
+Oct 07 22:47:51 Mridul sshd[5135]: Accepted password for root from 198.51.100.23 port 51186 ssh2
+Oct 07 22:48:10 Mridul sudo: www-data : TTY=pts/0 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/apt-get update
+Oct 07 22:48:15 Mridul sshd[1888]: Failed password for deploy from 185.220.101.5 port 42293 ssh2
+Oct 07 22:49:26 Mridul sudo: ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/apt-get update
+Oct 07 22:50:51 Mridul sshd[9998]: Accepted password for www-data from 192.168.1.42 port 38586 ssh2
+Oct 07 22:51:32 Mridul sshd[1472]: Failed password for www-data from 45.142.212.61 port 45682 ssh2
+Oct 07 22:51:57 Mridul sshd[7684]: Accepted password for ubuntu from 185.220.101.5 port 36108 ssh2
+Oct 07 22:52:30 Mridul systemd-logind[831]: New session 10 of user root.
+Oct 07 22:53:38 Mridul sshd[5479]: Failed password for deploy from 203.0.113.77 port 57229 ssh2
+Oct 07 22:54:44 Mridul sshd[3369]: Failed password for www-data from 10.0.0.15 port 55138 ssh2
+Oct 07 22:55:13 Mridul sudo: postgres : TTY=pts/0 ; PWD=/home/postgres ; USER=root ; COMMAND=/usr/bin/apt-get update
+Oct 07 22:55:35 Mridul sudo: root : TTY=pts/0 ; PWD=/home/root ; USER=root ; COMMAND=/usr/bin/apt-get update
+Oct 07 22:56:33 Mridul sshd[1042]: Accepted password for ubuntu from 185.220.101.5 port 48536 ssh2
+Oct 07 22:57:16 Mridul sshd[9022]: Invalid user postgres from 185.220.101.5 port 39738
+Oct 07 22:58:18 Mridul sshd[9903]: Accepted password for postgres from 198.51.100.23 port 54720 ssh2
+Oct 07 22:59:21 Mridul sshd[4912]: Invalid user ubuntu from 10.0.0.15 port 55098
+Oct 07 22:59:55 Mridul sshd[8749]: Accepted password for www-data from 192.168.1.42 port 54984 ssh2
+Oct 07 23:00:49 Mridul sshd[9115]: Invalid user deploy from 45.142.212.61 port 32426
+Oct 07 23:01:10 Mridul sshd[2644]: Accepted password for postgres from 185.220.101.5 port 58855 ssh2
+Oct 07 23:01:27 Mridul sshd[3361]: Accepted password for postgres from 198.51.100.23 port 56868 ssh2
+Oct 07 23:02:55 Mridul sshd[5342]: Failed password for mridul from 192.168.1.42 port 52187 ssh2
+Oct 07 23:04:19 Mridul sshd[6383]: Failed password for deploy from 198.51.100.23 port 64971 ssh2
+Oct 07 23:05:12 Mridul sudo: ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/apt-get update
+Oct 07 23:06:19 Mridul sshd[4846]: Failed password for postgres from 192.168.1.42 port 48833 ssh2
+Oct 07 23:06:53 Mridul sshd[2612]: Failed password for deploy from 192.168.1.42 port 36586 ssh2
+Oct 07 23:07:54 Mridul sshd[1474]: Accepted password for mridul from 45.142.212.61 port 33014 ssh2
+Oct 07 23:08:40 Mridul sshd[8056]: Accepted password for root from 203.0.113.77 port 39540 ssh2
+Oct 07 23:09:16 Mridul sshd[3950]: Failed password for postgres from 198.51.100.23 port 41140 ssh2
+Oct 07 23:09:43 Mridul systemd-logind[817]: New session 44 of user root.
+Oct 07 23:10:18 Mridul sshd[8555]: Accepted password for www-data from 185.220.101.5 port 46644 ssh2
+Oct 07 23:11:21 Mridul sshd[8622]: Accepted password for ubuntu from 45.142.212.61 port 48850 ssh2
+Oct 07 23:12:35 Mridul sshd[6661]: Failed password for mridul from 192.168.1.42 port 49605 ssh2
+Oct 07 23:14:01 Mridul sshd[5949]: Accepted password for www-data from 45.142.212.61 port 43055 ssh2
+Oct 07 23:14:55 Mridul sshd[6881]: Accepted password for www-data from 192.168.1.42 port 49390 ssh2
+Oct 07 23:15:37 Mridul sshd[1132]: Accepted password for root from 45.142.212.61 port 33214 ssh2
+Oct 07 23:16:59 Mridul sudo: deploy : TTY=pts/0 ; PWD=/home/deploy ; USER=root ; COMMAND=/usr/bin/apt-get update
+Oct 07 23:17:40 Mridul sudo: mridul : TTY=pts/0 ; PWD=/home/mridul ; USER=root ; COMMAND=/usr/bin/apt-get update
+Oct 07 23:18:13 Mridul sshd[3240]: Failed password for deploy from 10.0.0.15 port 36367 ssh2
+Oct 07 23:19:38 Mridul sshd[8222]: Accepted password for deploy from 192.168.1.42 port 32186 ssh2
+Oct 07 23:20:57 Mridul sshd[5835]: Accepted password for ubuntu from 45.142.212.61 port 51411 ssh2
+Oct 07 23:21:55 Mridul sshd[9837]: Accepted password for mridul from 10.0.0.15 port 53976 ssh2
+Oct 07 23:23:07 Mridul sudo: postgres : TTY=pts/0 ; PWD=/home/postgres ; USER=root ; COMMAND=/usr/bin/apt-get update
+Oct 07 23:23:44 Mridul sudo: www-data : TTY=pts/0 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/apt-get update
+Oct 07 23:23:47 Mridul sshd[6549]: Failed password for root from 45.142.212.61 port 37547 ssh2
+Oct 07 23:23:50 Mridul sshd[8673]: Failed password for root from 45.142.212.61 port 34934 ssh2
+Oct 07 23:23:53 Mridul sshd[3306]: Failed password for root from 45.142.212.61 port 44785 ssh2
+Oct 07 23:23:56 Mridul sshd[7511]: Failed password for root from 45.142.212.61 port 53971 ssh2
+Oct 07 23:23:59 Mridul sshd[2479]: Failed password for root from 45.142.212.61 port 55858 ssh2
+Oct 07 23:24:02 Mridul sshd[1228]: Failed password for root from 45.142.212.61 port 47331 ssh2
+Oct 07 23:24:05 Mridul sshd[9791]: Failed password for root from 45.142.212.61 port 38099 ssh2
+Oct 07 23:24:08 Mridul sshd[8451]: Failed password for root from 45.142.212.61 port 54155 ssh2
+Oct 07 23:24:11 Mridul sshd[5295]: Failed password for root from 45.142.212.61 port 54970 ssh2
+Oct 07 23:24:14 Mridul sshd[7086]: Failed password for root from 45.142.212.61 port 37100 ssh2
+Oct 07 23:24:17 Mridul sshd[4830]: Failed password for root from 45.142.212.61 port 60898 ssh2
+Oct 07 23:24:20 Mridul sshd[1410]: Failed password for root from 45.142.212.61 port 51496 ssh2
+Oct 07 23:24:23 Mridul sshd[4626]: Failed password for root from 45.142.212.61 port 34142 ssh2
+Oct 07 23:24:26 Mridul sshd[8606]: Failed password for root from 45.142.212.61 port 49804 ssh2
+Oct 07 23:24:29 Mridul sshd[7689]: Failed password for root from 45.142.212.61 port 37646 ssh2
+Oct 07 23:24:32 Mridul sshd[3290]: Failed password for root from 45.142.212.61 port 32971 ssh2
+Oct 07 23:24:35 Mridul sshd[1609]: Failed password for root from 45.142.212.61 port 49946 ssh2
+Oct 07 23:24:38 Mridul sshd[9071]: Failed password for root from 45.142.212.61 port 37610 ssh2
+Oct 07 23:24:41 Mridul sshd[2592]: Failed password for root from 45.142.212.61 port 45387 ssh2
+Oct 07 23:24:44 Mridul sshd[9807]: Failed password for root from 45.142.212.61 port 38890 ssh2
+Oct 07 23:24:47 Mridul sshd[7367]: Failed password for root from 45.142.212.61 port 59729 ssh2
+Oct 07 23:24:50 Mridul sshd[7078]: Failed password for root from 45.142.212.61 port 57467 ssh2
+Oct 07 23:24:53 Mridul sshd[3531]: Failed password for root from 45.142.212.61 port 57189 ssh2
+Oct 07 23:24:56 Mridul sshd[2622]: Failed password for root from 45.142.212.61 port 62069 ssh2
+Oct 07 23:24:59 Mridul sshd[7686]: Failed password for root from 45.142.212.61 port 48333 ssh2
+Oct 07 23:25:02 Mridul sshd[1536]: Failed password for root from 45.142.212.61 port 54283 ssh2
+Oct 07 23:25:05 Mridul sshd[4559]: Failed password for root from 45.142.212.61 port 59057 ssh2
+Oct 07 23:25:08 Mridul sshd[8285]: Failed password for root from 45.142.212.61 port 45473 ssh2
+Oct 07 23:25:11 Mridul sshd[6942]: Failed password for root from 45.142.212.61 port 36511 ssh2
+Oct 07 23:25:14 Mridul sshd[7018]: Failed password for root from 45.142.212.61 port 53506 ssh2
+Oct 07 23:25:17 Mridul sshd[1992]: Failed password for root from 45.142.212.61 port 56092 ssh2
+Oct 07 23:25:20 Mridul sshd[5520]: Failed password for root from 45.142.212.61 port 42439 ssh2
+Oct 07 23:25:23 Mridul sshd[3001]: Failed password for root from 45.142.212.61 port 59800 ssh2
+Oct 07 23:25:26 Mridul sshd[2501]: Failed password for root from 45.142.212.61 port 43900 ssh2
+Oct 07 23:25:29 Mridul sshd[1349]: Failed password for root from 45.142.212.61 port 33314 ssh2
+Oct 07 23:25:32 Mridul sshd[6464]: Failed password for root from 45.142.212.61 port 45962 ssh2
+Oct 07 23:25:35 Mridul sshd[3063]: Failed password for root from 45.142.212.61 port 43448 ssh2
+Oct 07 23:25:38 Mridul sshd[2124]: Failed password for root from 45.142.212.61 port 43576 ssh2
+Oct 07 23:25:41 Mridul sshd[4538]: Failed password for root from 45.142.212.61 port 45269 ssh2
+Oct 07 23:25:44 Mridul sshd[6383]: Failed password for root from 45.142.212.61 port 39670 ssh2

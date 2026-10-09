@@ -1,0 +1,150 @@
+Oct 07 20:32:11 Mridul sudo[6568]: Out of memory: Kill process 1234 (python)
+Oct 07 20:32:27 Mridul sshd[8879]: Started Daily apt download activities.
+Oct 07 20:33:23 Mridul kernel[1050]: Connection reset by peer
+Oct 07 20:34:00 Mridul sshd[1508]: error: cannot open /etc/nginx/nginx.conf
+Oct 07 20:35:03 Mridul sshd[4043]: Started Daily apt download activities.
+Oct 07 20:36:23 Mridul cron[1068]: pam_unix(cron:session): session opened for user root
+Oct 07 20:37:45 Mridul sshd[3757]: Out of memory: Kill process 1234 (python)
+Oct 07 20:39:15 Mridul kernel[1113]: Connection reset by peer
+Oct 07 20:40:39 Mridul cron[912]: Reached target Multi-User System.
+Oct 07 20:40:54 Mridul kernel[2281]: Listening on Docker Socket for the API.
+Oct 07 20:41:57 Mridul sudo[8958]: Started Daily apt download activities.
+Oct 07 20:43:20 Mridul systemd[9279]: pam_unix(cron:session): session opened for user root
+Oct 07 20:44:57 Mridul sudo[1788]: Connection reset by peer
+Oct 07 20:46:20 Mridul nginx[3178]: Listening on Docker Socket for the API.
+Oct 07 20:46:42 Mridul kernel[1128]: Connection reset by peer
+Oct 07 20:46:59 Mridul kernel[3474]: error: cannot open /etc/nginx/nginx.conf
+Oct 07 20:48:36 Mridul kernel[7105]: pam_unix(cron:session): session opened for user root
+Oct 07 20:49:26 Mridul cron[9693]: error: cannot open /etc/nginx/nginx.conf
+Oct 07 20:50:22 Mridul systemd[4170]: pam_unix(cron:session): session opened for user root
+Oct 07 20:50:55 Mridul nginx[4099]: Started Daily apt download activities.
+Oct 07 20:52:18 Mridul systemd[8704]: error: cannot open /etc/nginx/nginx.conf
+Oct 07 20:53:11 Mridul nginx[7453]: Listening on Docker Socket for the API.
+Oct 07 20:54:38 Mridul sshd[2034]: Connection reset by peer
+Oct 07 20:55:41 Mridul sudo[5704]: Reached target Multi-User System.
+Oct 07 20:56:53 Mridul cron[742]: Out of memory: Kill process 1234 (python)
+Oct 07 20:57:12 Mridul kernel[9488]: pam_unix(cron:session): session opened for user root
+Oct 07 20:59:06 Mridul systemd[5672]: Out of memory: Kill process 1234 (python)
+Oct 07 21:00:00 Mridul kernel[8237]: Connection reset by peer
+Oct 07 21:01:52 Mridul cron[1226]: pam_unix(cron:session): session opened for user root
+Oct 07 21:02:13 Mridul systemd[7867]: Out of memory: Kill process 1234 (python)
+Oct 07 21:03:48 Mridul sshd[1094]: Out of memory: Kill process 1234 (python)
+Oct 07 21:05:27 Mridul systemd[9569]: Out of memory: Kill process 1234 (python)
+Oct 07 21:07:22 Mridul cron[4762]: Out of memory: Kill process 1234 (python)
+Oct 07 21:08:21 Mridul nginx[5785]: Started Daily apt download activities.
+Oct 07 21:09:30 Mridul systemd[2853]: Connection reset by peer
+Oct 07 21:09:54 Mridul cron[1065]: Reached target Multi-User System.
+Oct 07 21:11:42 Mridul systemd[2219]: Out of memory: Kill process 1234 (python)
+Oct 07 21:12:23 Mridul cron[6505]: pam_unix(cron:session): session opened for user root
+Oct 07 21:13:36 Mridul sshd[2825]: error: cannot open /etc/nginx/nginx.conf
+Oct 07 21:14:37 Mridul kernel[4652]: Reached target Multi-User System.
+Oct 07 21:16:31 Mridul cron[9114]: Listening on Docker Socket for the API.
+Oct 07 21:18:11 Mridul cron[5978]: Out of memory: Kill process 1234 (python)
+Oct 07 21:19:09 Mridul sudo[2572]: Started Daily apt download activities.
+Oct 07 21:19:41 Mridul sudo[3900]: Out of memory: Kill process 1234 (python)
+Oct 07 21:20:20 Mridul sshd[8045]: pam_unix(cron:session): session opened for user root
+Oct 07 21:21:45 Mridul sudo[4404]: Listening on Docker Socket for the API.
+Oct 07 21:21:55 Mridul sudo[6964]: Connection reset by peer
+Oct 07 21:22:52 Mridul kernel[9378]: Listening on Docker Socket for the API.
+Oct 07 21:23:18 Mridul nginx[8545]: Connection reset by peer
+Oct 07 21:24:51 Mridul nginx[984]: error: cannot open /etc/nginx/nginx.conf
+Oct 07 21:26:40 Mridul nginx[9263]: error: cannot open /etc/nginx/nginx.conf
+Oct 07 21:27:40 Mridul cron[6557]: Started Daily apt download activities.
+Oct 07 21:28:51 Mridul nginx[6660]: Started Daily apt download activities.
+Oct 07 21:29:25 Mridul sshd[3520]: error: cannot open /etc/nginx/nginx.conf
+Oct 07 21:29:55 Mridul sshd[5671]: Connection reset by peer
+Oct 07 21:30:11 Mridul sshd[103]: Connection reset by peer
+Oct 07 21:30:40 Mridul kernel[1762]: Listening on Docker Socket for the API.
+Oct 07 21:32:08 Mridul sshd[1252]: pam_unix(cron:session): session opened for user root
+Oct 07 21:32:44 Mridul kernel[6264]: Reached target Multi-User System.
+Oct 07 21:34:15 Mridul systemd[5791]: Connection reset by peer
+Oct 07 21:35:11 Mridul cron[2112]: Started Daily apt download activities.
+Oct 07 21:37:09 Mridul cron[7734]: error: cannot open /etc/nginx/nginx.conf
+Oct 07 21:38:20 Mridul systemd[1507]: Reached target Multi-User System.
+Oct 07 21:38:43 Mridul nginx[5713]: Out of memory: Kill process 1234 (python)
+Oct 07 21:39:26 Mridul cron[2745]: Connection reset by peer
+Oct 07 21:39:38 Mridul sudo[8754]: Listening on Docker Socket for the API.
+Oct 07 21:40:06 Mridul nginx[8999]: Started Daily apt download activities.
+Oct 07 21:41:53 Mridul kernel[4983]: Out of memory: Kill process 1234 (python)
+Oct 07 21:43:53 Mridul sshd[4378]: Connection reset by peer
+Oct 07 21:44:49 Mridul sudo[5927]: pam_unix(cron:session): session opened for user root
+Oct 07 21:45:27 Mridul kernel[8973]: pam_unix(cron:session): session opened for user root
+Oct 07 21:46:41 Mridul systemd[3754]: Connection reset by peer
+Oct 07 21:48:34 Mridul sudo[4022]: pam_unix(cron:session): session opened for user root
+Oct 07 21:49:35 Mridul nginx[3814]: Reached target Multi-User System.
+Oct 07 21:50:51 Mridul cron[5925]: Out of memory: Kill process 1234 (python)
+Oct 07 21:51:04 Mridul sshd[4677]: error: cannot open /etc/nginx/nginx.conf
+Oct 07 21:51:47 Mridul sudo[5740]: error: cannot open /etc/nginx/nginx.conf
+Oct 07 21:53:40 Mridul nginx[5826]: Listening on Docker Socket for the API.
+Oct 07 21:54:00 Mridul sudo[1773]: Reached target Multi-User System.
+Oct 07 21:55:10 Mridul sudo[5633]: Reached target Multi-User System.
+Oct 07 21:56:21 Mridul kernel[131]: error: cannot open /etc/nginx/nginx.conf
+Oct 07 21:57:54 Mridul systemd[1489]: pam_unix(cron:session): session opened for user root
+Oct 07 21:59:28 Mridul sshd[6465]: pam_unix(cron:session): session opened for user root
+Oct 07 22:01:09 Mridul sudo[7932]: Reached target Multi-User System.
+Oct 07 22:02:14 Mridul nginx[5547]: Started Daily apt download activities.
+Oct 07 22:04:06 Mridul nginx[6585]: error: cannot open /etc/nginx/nginx.conf
+Oct 07 22:05:07 Mridul nginx[1491]: Out of memory: Kill process 1234 (python)
+Oct 07 22:05:37 Mridul sudo[2181]: Started Daily apt download activities.
+Oct 07 22:06:06 Mridul kernel[7724]: pam_unix(cron:session): session opened for user root
+Oct 07 22:07:39 Mridul sudo[9862]: error: cannot open /etc/nginx/nginx.conf
+Oct 07 22:09:13 Mridul systemd[2654]: Connection reset by peer
+Oct 07 22:10:33 Mridul sudo[450]: Started Daily apt download activities.
+Oct 07 22:12:25 Mridul nginx[1783]: Connection reset by peer
+Oct 07 22:14:10 Mridul sudo[7207]: pam_unix(cron:session): session opened for user root
+Oct 07 22:14:44 Mridul sudo[558]: Listening on Docker Socket for the API.
+Oct 07 22:15:21 Mridul systemd[8311]: Reached target Multi-User System.
+Oct 07 22:17:08 Mridul kernel[5441]: Listening on Docker Socket for the API.
+Oct 07 22:18:27 Mridul cron[2247]: Started Daily apt download activities.
+Oct 07 22:20:11 Mridul systemd[7606]: Out of memory: Kill process 1234 (python)
+Oct 07 22:21:35 Mridul kernel[6991]: pam_unix(cron:session): session opened for user root
+Oct 07 22:22:49 Mridul sudo[8813]: Reached target Multi-User System.
+Oct 07 22:24:06 Mridul kernel[406]: pam_unix(cron:session): session opened for user root
+Oct 07 22:25:12 Mridul sudo[164]: pam_unix(cron:session): session opened for user root
+Oct 07 22:27:04 Mridul sudo[2923]: Reached target Multi-User System.
+Oct 07 22:28:14 Mridul kernel[2071]: Connection reset by peer
+Oct 07 22:28:31 Mridul systemd[8592]: Connection reset by peer
+Oct 07 22:29:52 Mridul cron[1838]: Connection reset by peer
+Oct 07 22:30:09 Mridul sudo[3234]: Listening on Docker Socket for the API.
+Oct 07 22:30:24 Mridul sshd[8418]: error: cannot open /etc/nginx/nginx.conf
+Oct 07 22:31:45 Mridul sshd[1138]: error: cannot open /etc/nginx/nginx.conf
+Oct 07 22:32:36 Mridul kernel[8382]: Connection reset by peer
+Oct 07 22:33:51 Mridul sudo[4641]: error: cannot open /etc/nginx/nginx.conf
+Oct 07 22:35:06 Mridul kernel[7932]: Connection reset by peer
+Oct 07 22:35:47 Mridul nginx[8672]: Listening on Docker Socket for the API.
+Oct 07 22:37:08 Mridul sudo[7432]: Reached target Multi-User System.
+Oct 07 22:38:11 Mridul sshd[6528]: error: cannot open /etc/nginx/nginx.conf
+Oct 07 22:39:01 Mridul sshd[4042]: error: cannot open /etc/nginx/nginx.conf
+Oct 07 22:39:20 Mridul sudo[5060]: pam_unix(cron:session): session opened for user root
+Oct 07 22:39:45 Mridul sudo[6099]: Reached target Multi-User System.
+Oct 07 22:40:27 Mridul sudo[7763]: Reached target Multi-User System.
+Oct 07 22:42:12 Mridul sshd[6625]: error: cannot open /etc/nginx/nginx.conf
+Oct 07 22:42:42 Mridul nginx[3765]: Reached target Multi-User System.
+Oct 07 22:44:22 Mridul cron[8547]: error: cannot open /etc/nginx/nginx.conf
+Oct 07 22:45:15 Mridul cron[3307]: Listening on Docker Socket for the API.
+Oct 07 22:46:05 Mridul sshd[6095]: Started Daily apt download activities.
+Oct 07 22:46:58 Mridul kernel[7614]: error: cannot open /etc/nginx/nginx.conf
+Oct 07 22:48:38 Mridul sshd[6397]: Listening on Docker Socket for the API.
+Oct 07 22:49:54 Mridul kernel[4940]: Connection reset by peer
+Oct 07 22:50:12 Mridul sshd[3844]: Started Daily apt download activities.
+Oct 07 22:50:32 Mridul systemd[4555]: Started Daily apt download activities.
+Oct 07 22:52:21 Mridul sudo[4530]: pam_unix(cron:session): session opened for user root
+Oct 07 22:52:47 Mridul cron[4337]: error: cannot open /etc/nginx/nginx.conf
+Oct 07 22:53:16 Mridul kernel[8534]: Connection reset by peer
+Oct 07 22:54:29 Mridul nginx[5458]: Started Daily apt download activities.
+Oct 07 22:55:14 Mridul sshd[3103]: error: cannot open /etc/nginx/nginx.conf
+Oct 07 22:55:33 Mridul systemd[375]: Out of memory: Kill process 1234 (python)
+Oct 07 22:55:54 Mridul systemd[1472]: Connection reset by peer
+Oct 07 22:57:53 Mridul sudo[1191]: Listening on Docker Socket for the API.
+Oct 07 22:59:53 Mridul sshd[7534]: Started Daily apt download activities.
+Oct 07 23:00:46 Mridul kernel[6944]: Listening on Docker Socket for the API.
+Oct 07 23:02:15 Mridul sudo[807]: Connection reset by peer
+Oct 07 23:03:55 Mridul sudo[1893]: Reached target Multi-User System.
+Oct 07 23:04:38 Mridul sshd[3067]: Reached target Multi-User System.
+Oct 07 23:05:27 Mridul nginx[5097]: Connection reset by peer
+Oct 07 23:07:14 Mridul sudo[4850]: error: cannot open /etc/nginx/nginx.conf
+Oct 07 23:08:28 Mridul nginx[3014]: Listening on Docker Socket for the API.
+Oct 07 23:09:22 Mridul sshd[4203]: Started Daily apt download activities.
+Oct 07 23:09:33 Mridul sshd[8384]: Connection reset by peer
+Oct 07 23:10:07 Mridul kernel[7878]: Reached target Multi-User System.
+Oct 07 23:11:14 Mridul sshd[7180]: Out of memory: Kill process 1234 (python)
